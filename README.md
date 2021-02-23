@@ -1,4 +1,4 @@
-## Hi, I'm Michael Lohr!
+## Hi, I'm Michael!
 [![GitHub: michidk](https://img.shields.io/github/followers/michidk?label=follow&style=social)](https://github.com/michidk)
 [![Twitter: miichidk](https://img.shields.io/twitter/follow/miichidk?style=social)](https://twitter.com/miichidk)
 [![Linkedin: michael-lohr](https://img.shields.io/badge/-michael—lohr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-lohr/)](https://www.linkedin.com/in/michael-lohr/)
