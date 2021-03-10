@@ -10,5 +10,5 @@ Passionate about software development and architecture, web and cloud technologi
 Currently studying computer science (M. Sc.) at Technische Universität München (TUM). 
 Also developing various software solutions (focused on web and cloud technologies) for startups and mid-sized businesses with my company [Lohr IT](https://www.lohr-it.de).
 
-If you want to get in touch, reach out via [LinkedIn](https://www.linkedin.com/in/michael-lohr/).
+If you want to get in touch, reach out via [LinkedIn](https://www.linkedin.com/in/michael-lohr/). Have a look at my personal résumé and CV over [here](https://github.com/michidk/cv).
 Also check out my Open Source projects [here on GitHub](https://github.com/michidk/github-portfolio)!
