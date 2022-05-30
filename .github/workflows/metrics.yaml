@@ -1,0 +1,78 @@
+name: daily-metrics
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: github-metrics
+          committer_message: "build: update `${filename}`"
+
+          # Options
+          user: michidk
+          template: classic
+          base: header, activity, community
+          config_timezone: Europe/Berlin
+
+  notable:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: github-metrics
+          committer_message: "build: update `${filename}`"
+
+          # Options
+          user: michidk
+          template: classic
+          base: ""
+          config_display: large
+          config_timezone: Europe/Berlin
+          config_output: svg
+          filename: notable.svg
+
+          # Notable contributions
+          plugin_notable: yes
+          plugin_notable_filter: stars:>10
+
+  language:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: github-metrics
+          committer_message: "build: update `${filename}`"
+
+          # Options
+          user: michidk
+          template: classic
+          base: ""
+          config_display: large
+          config_timezone: Europe/Berlin
+          config_output: svg
+          filename: language.svg
+
+          # Language plugin
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage

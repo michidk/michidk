@@ -9,7 +9,11 @@ _Because a Great Idea Is Never Enough_
 
 Passionate about software development and architecture, web and cloud technologies, as well as game development.
 
-Currently studying computer science (M. Sc.) at Technische Universität München (TUM). 
+Currently studying computer science (M. Sc.) at Technische Universität München (TUM).
 Also developing various software solutions (focused on web and cloud technologies) for startups and mid-sized businesses with my company [Lohr IT](https://www.lohr-it.de).
 
 If you want to get in touch, reach out via [LinkedIn](https://www.linkedin.com/in/michael-lohr/) and checkout my [Website](https://lohr.dev).
+
+![Metrics](https://raw.githubusercontent.com/michidk/michidk/github-metrics/github-metrics.svg)
+![Most used languages](https://raw.githubusercontent.com/michidk/michidk/github-metrics/language.svg)
+![Notable contributions](https://raw.githubusercontent.com/michidk/michidk/github-metrics/notable.svg)
