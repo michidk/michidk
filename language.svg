@@ -27,7 +27,7 @@
                     <rect mask="url(#languages-bar)" x="664.9452439618727" y="0" width="138.5132493804854" height="8" fill="#178600"/>
                     <rect mask="url(#languages-bar)" x="803.4584933423582" y="0" width="80.76746168109268" height="8" fill="#b07219"/>
                     <rect mask="url(#languages-bar)" x="884.2259550234509" y="0" width="15.787375739418765" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="900.0133307628696" y="0" width="12.691524177134974" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="900.0133307628696" y="0" width="12.691524177134974" height="8" fill="#844FBA"/>
                     <rect mask="url(#languages-bar)" x="912.7048549400046" y="0" width="7.295145059995469" height="8" fill="#012456"/>
                 </svg>
                 <div class="row fill-width">
@@ -99,7 +99,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#844FBA" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 HCL
                             </div>
