@@ -7,10 +7,9 @@
 
 _Because a Great Idea Is Never Enough_
 
-Passionate about software development and architecture, web and cloud technologies, as well as game development.
+Passionate about software development and design, web technologies, distributed systems, containers, DevOps, and game development.
 
-Currently studying computer science (M. Sc.) at Technische Universität München (TUM).
-Also developing various software solutions (focused on web and cloud technologies) for startups and mid-sized businesses with my company [Lohr IT](https://www.lohr-it.de).
+Currently designing cloud solutions for battery storage systems at STABL Energy GmbH. Also developing various software solutions (focused on web and cloud technologies) for startups and mid-sized businesses with my company Lohr IT.
 
 If you want to get in touch, reach out via [LinkedIn](https://www.linkedin.com/in/michael-lohr/) and checkout my [Website](https://lohr.dev).
 
