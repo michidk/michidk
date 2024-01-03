@@ -13,6 +13,6 @@ Currently designing cloud solutions for battery storage systems at STABL Energy 
 
 If you want to get in touch, reach out via [LinkedIn](https://www.linkedin.com/in/michael-lohr/) and checkout my [Website](https://lohr.dev).
 
-![Metrics](https://raw.githubusercontent.com/michidk/michidk/github-metrics/github-metrics.svg)
-![Most used languages](https://raw.githubusercontent.com/michidk/michidk/github-metrics/language.svg)
-![Notable contributions](https://raw.githubusercontent.com/michidk/michidk/github-metrics/notable.svg)
+[![Metrics](https://raw.githubusercontent.com/michidk/michidk/github-metrics/github-metrics.svg)](https://github.com/michidk)
+[![Most used languages](https://raw.githubusercontent.com/michidk/michidk/github-metrics/language.svg)](https://github.com/michidk)
+[![Notable contributions](https://raw.githubusercontent.com/michidk/michidk/github-metrics/notable.svg)](https://github.com/michidk)
