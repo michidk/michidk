@@ -18,6 +18,7 @@ If you want to get in touch, reach out via [LinkedIn](https://www.linkedin.com/i
 - 🎯 **[CodeTend](https://github.com/michidk/CodeTend)** — A self-hosted platform for continuous, language-agnostic repository health scans with deterministic scores and tracked technical-debt findings.
 - 🤿 **[Divetracx](https://github.com/michidk/divetracx)** — A self-hosted dive log with Garmin and DiveMate imports, open exports, and an MCP interface. [Live demo](https://divetracx.vercel.app)
 - ☕ **[Roastbook](https://github.com/michidk/roastbook)** — An AI-native, self-hosted journal for coffee beans, brews, and espresso shots. [Live demo](https://roastbook.vercel.app)
+- ⏱️ **[shottimer](https://github.com/michidk/shottimer)** — A vibration-triggered espresso shot timer built in Rust for RP2040 and ESP32-S3, with a circular display and 3D-printable housings.
 - 🖥️ **[miseshare](https://github.com/michidk/miseshare)** — Private peer-to-peer screen and file sharing built on WebRTC. [Open app](https://miseshare.vercel.app)
 - 🧪 **[icecheck](https://github.com/michidk/icecheck)** — A native two-browser WebRTC connectivity and ICE path debugger. [Live tool](https://icecheck.vercel.app)
 - 🚪 **[hodor](https://github.com/michidk/hodor)** — A tiny Rust reverse proxy that puts any web app behind one shared password.
