@@ -32,3 +32,5 @@ If you want to get in touch, reach out via [LinkedIn](https://www.linkedin.com/i
 [![Metrics](https://raw.githubusercontent.com/michidk/michidk/github-metrics/github-metrics.svg)](https://github.com/michidk)
 [![Most used languages](https://raw.githubusercontent.com/michidk/michidk/github-metrics/language.svg)](https://github.com/michidk)
 [![Notable contributions](https://raw.githubusercontent.com/michidk/michidk/github-metrics/notable.svg)](https://github.com/michidk)
+
+![](https://hit.yhype.me/github/profile?account_id=3979930)
