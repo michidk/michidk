@@ -23,7 +23,7 @@ If you want to get in touch, reach out via [LinkedIn](https://www.linkedin.com/i
 - 🧪 **[icecheck](https://github.com/michidk/icecheck)** — A native two-browser WebRTC connectivity and ICE path debugger. [Live tool](https://icecheck.vercel.app)
 - 🚪 **[hodor](https://github.com/michidk/hodor)** — A tiny Rust reverse proxy that puts any web app behind one shared password.
 - ⌨️ **[vscli](https://github.com/michidk/vscli)** — A Rust CLI and TUI for launching VS Code projects, with a focus on development containers.
-- 🐬 **[orcastrate](https://github.com/michidk/orcastrate)** — A Rust tool that keeps canonical GitHub Actions workflows synchronized and opens pull requests when repositories drift.
+- 🐬 **[orcastrate](https://github.com/michidk/orcastrate)** — A GitHub Action that synchronizes files across different repositories.
 - 📦 **[shimesu](https://github.com/michidk/shimesu)** — A self-hosted static artifact publishing platform for AWS.
 - 🏺 **[Redguard Preservation](https://github.com/michidk/redguard-preservation)** — Reverse-engineered file formats, engine documentation, and Rust tooling for preserving *The Elder Scrolls Adventures: Redguard*.
 
