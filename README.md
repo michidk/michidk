@@ -15,6 +15,7 @@ If you want to get in touch, reach out via [LinkedIn](https://www.linkedin.com/i
 
 ## Featured projects
 
+- 🧊 **[shadcn-3d-viewer](https://github.com/michidk/shadcn-3d-viewer)** — A source-owned 3D model viewer for shadcn/ui with composable React Three Fiber controls. [Live demo](https://shadcn-3d-viewer.vercel.app)
 - 🎯 **[CodeTend](https://github.com/michidk/CodeTend)** — Self-hosted code health scans and technical debt tracking.
 - 🤿 **[Divetracx](https://github.com/michidk/divetracx)** — A self-hosted dive log with Garmin and DiveMate imports, open exports, and an MCP interface. [Live demo](https://divetracx.vercel.app)
 - ☕ **[Roastbook](https://github.com/michidk/roastbook)** — An AI-native, self-hosted journal for coffee beans, brews, and espresso shots. [Live demo](https://roastbook.vercel.app)
