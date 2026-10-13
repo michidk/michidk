@@ -27,7 +27,7 @@ If you want to get in touch, reach out via [LinkedIn](https://www.linkedin.com/i
 - 🐬 **[orcastrate](https://github.com/michidk/orcastrate)** — A GitHub Action that synchronizes files across different repositories.
 - 📦 **[shimesu](https://github.com/michidk/shimesu)** — A self-hosted static artifact publishing platform for AWS.
 - 🏺 **[Redguard Preservation](https://github.com/michidk/redguard-preservation)** — Reverse-engineered file formats, engine documentation, and Rust tooling for preserving *The Elder Scrolls Adventures: Redguard*.
-- 🐉 **[cyrus](https://github.com/michidk/cyrus)** — An early-stage Redguard rebuild in Rust and Bevy.
+- 🐉 **[cyrus](https://github.com/michidk/cyrus)** — A Redguard rebuild in Rust and Bevy.
 - 🪵 **[Sticks & Clay](https://github.com/michidk/sticks-and-clay)** — A self-hosted AI workshop for 3D assets and graphics.
 
 🌐 Explore more at **[lohr.dev/projects](https://lohr.dev/projects)**.
