@@ -15,6 +15,8 @@ If you want to get in touch, reach out via [LinkedIn](https://www.linkedin.com/i
 
 ## Featured projects
 
+- **[Sticks & Clay](https://github.com/michidk/sticks-and-clay)** — A self-hosted AI workshop for 3D assets, graphics, procedural materials, and sprites, with editable Blender scripts and an MCP interface.
+- **[cyrus](https://github.com/michidk/cyrus)** — An early-stage rebuild of *The Elder Scrolls Adventures: Redguard* in Rust and Bevy. Startup presentation and world viewing work; the game is not yet playable.
 - 🧊 **[shadcn-3d-viewer](https://github.com/michidk/shadcn-3d-viewer)** — A source-owned 3D model viewer for shadcn/ui with composable React Three Fiber controls. [Live demo](https://shadcn-3d-viewer.vercel.app)
 - 🎯 **[CodeTend](https://github.com/michidk/CodeTend)** — Self-hosted code health scans and technical debt tracking.
 - 🤿 **[Divetracx](https://github.com/michidk/divetracx)** — A self-hosted dive log with Garmin and DiveMate imports, open exports, and an MCP interface. [Live demo](https://divetracx.vercel.app)
