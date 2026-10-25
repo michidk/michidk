@@ -50,6 +50,7 @@ jobs:
 
           # Notable contributions
           plugin_notable: yes
+          plugin_notable_types: commit, pull_request
           plugin_notable_filter: stars:>10
 
   language:
