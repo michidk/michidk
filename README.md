@@ -32,7 +32,7 @@ If you want to get in touch, reach out via [LinkedIn](https://www.linkedin.com/i
 
 🌐 Explore more at **[lohr.dev/projects](https://lohr.dev/projects)**.
 
-Explore my [contribution organization](https://github.com/orgs/michidk-contrib/repositories?type=source) for more projects.
+Explore my [contribution organization](https://github.com/orgs/michidk-contrib/repositories?type=source) to see all projects I contribute to.
 
 [![Metrics](https://raw.githubusercontent.com/michidk/michidk/github-metrics/github-metrics.svg)](https://github.com/michidk)
 [![Most used languages](https://raw.githubusercontent.com/michidk/michidk/github-metrics/language.svg)](https://github.com/michidk)
