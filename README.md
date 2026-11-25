@@ -22,6 +22,7 @@ If you want to get in touch, reach out via [LinkedIn](https://www.linkedin.com/i
 - ⏱️ **[shottimer](https://github.com/michidk/shottimer)** — A vibration-triggered espresso shot timer built in Rust.
 - 🖥️ **[miseshare](https://github.com/michidk/miseshare)** — Private peer-to-peer screen and file sharing built on WebRTC. [Open app](https://miseshare.vercel.app)
 - 🧪 **[icecheck](https://github.com/michidk/icecheck)** — A native two-browser WebRTC connectivity and ICE path debugger. [Live tool](https://icecheck.vercel.app)
+- 🪟 **[Side by Side](https://github.com/michidk/sidebyside)** — One URL in Firefox, Chromium, Epiphany and more at once, each a real browser in its own Linux VM in your tab. [Open app](https://michidk.github.io/sidebyside/)
 - 🚪 **[hodor](https://github.com/michidk/hodor)** — A tiny Rust reverse proxy that puts any web app behind one shared password.
 - ⌨️ **[vscli](https://github.com/michidk/vscli)** — A Rust CLI and TUI for launching VS Code projects, with a focus on development containers.
 - 🐬 **[orcastrate](https://github.com/michidk/orcastrate)** — A GitHub Action that synchronizes files across different repositories.
